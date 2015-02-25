@@ -1,0 +1,53 @@
+body { 
+  margin-left: 20px;  
+}
+
+hr {
+  width: 20%;
+  float: left;
+}
+
+.main-nav ul { 
+  list-style: none;
+  padding-left: 0px;  
+}
+
+.main-nav ul li {  
+  display: inline;
+  padding-right: 20px;  
+}
+
+li.shopping-cart a {
+  text-decoration: none;
+  color: #4c4d51;
+  font-weight: bold;
+  font-size: 20px;
+  padding-left: 10px;
+}
+
+table.cart-table input{
+  text-align: center;
+}
+
+.product-holder a {
+  text-decoration: none;  
+}
+
+.product-holder b{
+  color: #4c4d51;
+}
+
+td {  
+  text-align: center;
+  vertical-align: middle;
+}
+
+div.flash-session {
+  background: green;
+  color:white;
+  padding: 5px;
+  width: 20.2%;
+}
+
+
+
